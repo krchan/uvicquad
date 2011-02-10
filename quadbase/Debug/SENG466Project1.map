@@ -1,0 +1,1114 @@
+Archive member included because of file (symbol)
+
+C:\Users\derekja\workspace\SENG466Project1\libmegaCore.a(HardwareSerial.o)
+                              ./main.o (HardwareSerial::begin(long))
+C:\Users\derekja\workspace\SENG466Project1\libmegaCore.a(Print.o)
+                              ./LiquidCrystal.o (Print::write(char const*))
+C:\Users\derekja\workspace\SENG466Project1\libmegaCore.a(WInterrupts.o)
+                              ./radio/radio.o (attachInterrupt)
+C:\Users\derekja\workspace\SENG466Project1\libmegaCore.a(wiring.o)
+                              ./main.o (delay)
+C:\Users\derekja\workspace\SENG466Project1\libmegaCore.a(wiring_digital.o)
+                              ./LiquidCrystal.o (pinMode)
+C:\Users\derekja\workspace\SENG466Project1\libmegaCore.a(pins_arduino.o)
+                              C:\Users\derekja\workspace\SENG466Project1\libmegaCore.a(wiring_digital.o) (port_to_mode_PGM)
+c:/winavr-20090313/bin/../lib/gcc/avr/4.3.2/avr51\libgcc.a(_mulsi3.o)
+                              C:\Users\derekja\workspace\SENG466Project1\libmegaCore.a(HardwareSerial.o) (__mulsi3)
+c:/winavr-20090313/bin/../lib/gcc/avr/4.3.2/avr51\libgcc.a(_divmodhi4.o)
+                              C:\Users\derekja\workspace\SENG466Project1\libmegaCore.a(HardwareSerial.o) (__divmodhi4)
+c:/winavr-20090313/bin/../lib/gcc/avr/4.3.2/avr51\libgcc.a(_udivmodsi4.o)
+                              C:\Users\derekja\workspace\SENG466Project1\libmegaCore.a(HardwareSerial.o) (__udivmodsi4)
+c:/winavr-20090313/bin/../lib/gcc/avr/4.3.2/avr51\libgcc.a(_divmodsi4.o)
+                              ./vrbot.o (__divmodsi4)
+c:/winavr-20090313/bin/../lib/gcc/avr/4.3.2/avr51\libgcc.a(_exit.o)
+                              c:/winavr-20090313/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr51/crtm1280.o (exit)
+c:/winavr-20090313/bin/../lib/gcc/avr/4.3.2/avr51\libgcc.a(_clear_bss.o)
+                              ./main.o (__do_clear_bss)
+c:/winavr-20090313/bin/../lib/gcc/avr/4.3.2/avr51\libgcc.a(_ctors.o)
+                              ./main.o (__do_global_ctors)
+c:/winavr-20090313/bin/../lib/gcc/avr/4.3.2/avr51\libgcc.a(_fixunssfsi.o)
+                              C:\Users\derekja\workspace\SENG466Project1\libmegaCore.a(Print.o) (__fixunssfsi)
+c:/winavr-20090313/bin/../lib/gcc/avr/4.3.2/avr51\libgcc.a(_addsub_sf.o)
+                              C:\Users\derekja\workspace\SENG466Project1\libmegaCore.a(Print.o) (__subsf3)
+c:/winavr-20090313/bin/../lib/gcc/avr/4.3.2/avr51\libgcc.a(_mul_sf.o)
+                              C:\Users\derekja\workspace\SENG466Project1\libmegaCore.a(Print.o) (__mulsf3)
+c:/winavr-20090313/bin/../lib/gcc/avr/4.3.2/avr51\libgcc.a(_div_sf.o)
+                              C:\Users\derekja\workspace\SENG466Project1\libmegaCore.a(Print.o) (__divsf3)
+c:/winavr-20090313/bin/../lib/gcc/avr/4.3.2/avr51\libgcc.a(_ge_sf.o)
+                              c:/winavr-20090313/bin/../lib/gcc/avr/4.3.2/avr51\libgcc.a(_fixunssfsi.o) (__gesf2)
+c:/winavr-20090313/bin/../lib/gcc/avr/4.3.2/avr51\libgcc.a(_lt_sf.o)
+                              C:\Users\derekja\workspace\SENG466Project1\libmegaCore.a(Print.o) (__ltsf2)
+c:/winavr-20090313/bin/../lib/gcc/avr/4.3.2/avr51\libgcc.a(_si_to_sf.o)
+                              C:\Users\derekja\workspace\SENG466Project1\libmegaCore.a(Print.o) (__floatsisf)
+c:/winavr-20090313/bin/../lib/gcc/avr/4.3.2/avr51\libgcc.a(_sf_to_si.o)
+                              C:\Users\derekja\workspace\SENG466Project1\libmegaCore.a(Print.o) (__fixsfsi)
+c:/winavr-20090313/bin/../lib/gcc/avr/4.3.2/avr51\libgcc.a(_thenan_sf.o)
+                              c:/winavr-20090313/bin/../lib/gcc/avr/4.3.2/avr51\libgcc.a(_addsub_sf.o) (__thenan_sf)
+c:/winavr-20090313/bin/../lib/gcc/avr/4.3.2/avr51\libgcc.a(_usi_to_sf.o)
+                              C:\Users\derekja\workspace\SENG466Project1\libmegaCore.a(Print.o) (__floatunsisf)
+c:/winavr-20090313/bin/../lib/gcc/avr/4.3.2/avr51\libgcc.a(_udivmodhi4.o)
+                              c:/winavr-20090313/bin/../lib/gcc/avr/4.3.2/avr51\libgcc.a(_divmodhi4.o) (__udivmodhi4)
+c:/winavr-20090313/bin/../lib/gcc/avr/4.3.2/avr51\libgcc.a(_prologue.o)
+                              c:/winavr-20090313/bin/../lib/gcc/avr/4.3.2/avr51\libgcc.a(_addsub_sf.o) (__prologue_saves__)
+c:/winavr-20090313/bin/../lib/gcc/avr/4.3.2/avr51\libgcc.a(_epilogue.o)
+                              c:/winavr-20090313/bin/../lib/gcc/avr/4.3.2/avr51\libgcc.a(_addsub_sf.o) (__epilogue_restores__)
+c:/winavr-20090313/bin/../lib/gcc/avr/4.3.2/avr51\libgcc.a(_tablejump.o)
+                              c:/winavr-20090313/bin/../lib/gcc/avr/4.3.2/avr51\libgcc.a(_ctors.o) (__tablejump__)
+c:/winavr-20090313/bin/../lib/gcc/avr/4.3.2/avr51\libgcc.a(_clzsi2.o)
+                              c:/winavr-20090313/bin/../lib/gcc/avr/4.3.2/avr51\libgcc.a(_si_to_sf.o) (__clzsi2)
+c:/winavr-20090313/bin/../lib/gcc/avr/4.3.2/avr51\libgcc.a(_pack_sf.o)
+                              c:/winavr-20090313/bin/../lib/gcc/avr/4.3.2/avr51\libgcc.a(_addsub_sf.o) (__pack_f)
+c:/winavr-20090313/bin/../lib/gcc/avr/4.3.2/avr51\libgcc.a(_unpack_sf.o)
+                              c:/winavr-20090313/bin/../lib/gcc/avr/4.3.2/avr51\libgcc.a(_addsub_sf.o) (__unpack_f)
+c:/winavr-20090313/bin/../lib/gcc/avr/4.3.2/avr51\libgcc.a(_fpcmp_parts_sf.o)
+                              c:/winavr-20090313/bin/../lib/gcc/avr/4.3.2/avr51\libgcc.a(_ge_sf.o) (__fpcmp_parts_f)
+c:/winavr-20090313/bin/../lib/gcc/avr/4.3.2/avr51\libgcc.a(_clz.o)
+                              c:/winavr-20090313/bin/../lib/gcc/avr/4.3.2/avr51\libgcc.a(_clzsi2.o) (__clz_tab)
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+text             0x00000000         0x00020000         xr
+data             0x00800060         0x0000ffa0         rw !x
+eeprom           0x00810000         0x00010000         rw !x
+fuse             0x00820000         0x00000400         rw !x
+lock             0x00830000         0x00000400         rw !x
+signature        0x00840000         0x00000400         rw !x
+*default*        0x00000000         0xffffffff
+
+Linker script and memory map
+
+Address of section .data set to 0x800200
+LOAD c:/winavr-20090313/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr51/crtm1280.o
+LOAD ./LiquidCrystal.o
+LOAD ./main.o
+LOAD ./radioclient.o
+LOAD ./vrbot.o
+LOAD ./radio/radio.o
+LOAD ./radio/spi.o
+LOAD C:\Users\derekja\workspace\SENG466Project1\libmegaCore.a
+LOAD c:/winavr-20090313/bin/../lib/gcc/avr/4.3.2/avr51\libgcc.a
+LOAD c:/winavr-20090313/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr51\libm.a
+LOAD c:/winavr-20090313/bin/../lib/gcc/avr/4.3.2/avr51\libgcc.a
+LOAD c:/winavr-20090313/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr51\libc.a
+LOAD c:/winavr-20090313/bin/../lib/gcc/avr/4.3.2/avr51\libgcc.a
+
+.hash
+ *(.hash)
+
+.dynsym
+ *(.dynsym)
+
+.dynstr
+ *(.dynstr)
+
+.gnu.version
+ *(.gnu.version)
+
+.gnu.version_d
+ *(.gnu.version_d)
+
+.gnu.version_r
+ *(.gnu.version_r)
+
+.rel.init
+ *(.rel.init)
+
+.rela.init
+ *(.rela.init)
+
+.rel.text
+ *(.rel.text)
+ *(.rel.text.*)
+ *(.rel.gnu.linkonce.t*)
+
+.rela.text
+ *(.rela.text)
+ *(.rela.text.*)
+ *(.rela.gnu.linkonce.t*)
+
+.rel.fini
+ *(.rel.fini)
+
+.rela.fini
+ *(.rela.fini)
+
+.rel.rodata
+ *(.rel.rodata)
+ *(.rel.rodata.*)
+ *(.rel.gnu.linkonce.r*)
+
+.rela.rodata
+ *(.rela.rodata)
+ *(.rela.rodata.*)
+ *(.rela.gnu.linkonce.r*)
+
+.rel.data
+ *(.rel.data)
+ *(.rel.data.*)
+ *(.rel.gnu.linkonce.d*)
+
+.rela.data
+ *(.rela.data)
+ *(.rela.data.*)
+ *(.rela.gnu.linkonce.d*)
+
+.rel.ctors
+ *(.rel.ctors)
+
+.rela.ctors
+ *(.rela.ctors)
+
+.rel.dtors
+ *(.rel.dtors)
+
+.rela.dtors
+ *(.rela.dtors)
+
+.rel.got
+ *(.rel.got)
+
+.rela.got
+ *(.rela.got)
+
+.rel.bss
+ *(.rel.bss)
+
+.rela.bss
+ *(.rela.bss)
+
+.rel.plt
+ *(.rel.plt)
+
+.rela.plt
+ *(.rela.plt)
+
+.text           0x00000000     0x4956
+ *(.vectors)
+ .vectors       0x00000000       0xe4 c:/winavr-20090313/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr51/crtm1280.o
+                0x00000000                __vectors
+                0x00000000                __vector_default
+ *(.vectors)
+ *(.progmem.gcc*)
+ *(.progmem*)
+ .progmem.data  0x000000e4      0x120 C:\Users\derekja\workspace\SENG466Project1\libmegaCore.a(pins_arduino.o)
+                0x000000e4                port_to_mode_PGM
+                0x00000132                digital_pin_to_port_PGM
+                0x00000178                digital_pin_to_bit_mask_PGM
+                0x000000fe                port_to_output_PGM
+                0x00000118                port_to_input_PGM
+                0x000001be                digital_pin_to_timer_PGM
+                0x00000204                . = ALIGN (0x2)
+                0x00000204                __trampolines_start = .
+ *(.trampolines)
+ .trampolines   0x00000204        0x0 linker stubs
+ *(.trampolines*)
+                0x00000204                __trampolines_end = .
+ *(.jumptables)
+ *(.jumptables*)
+ *(.lowtext)
+ *(.lowtext*)
+                0x00000204                __ctors_start = .
+ *(.ctors)
+ .ctors         0x00000204        0x2 ./main.o
+ .ctors         0x00000206        0x2 C:\Users\derekja\workspace\SENG466Project1\libmegaCore.a(HardwareSerial.o)
+                0x00000208                __ctors_end = .
+                0x00000208                __dtors_start = .
+ *(.dtors)
+                0x00000208                __dtors_end = .
+ SORT(*)(.ctors)
+ SORT(*)(.dtors)
+ *(.init0)
+ .init0         0x00000208        0x0 c:/winavr-20090313/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr51/crtm1280.o
+                0x00000208                __init
+ *(.init0)
+ *(.init1)
+ *(.init1)
+ *(.init2)
+ .init2         0x00000208        0xc c:/winavr-20090313/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr51/crtm1280.o
+ *(.init2)
+ *(.init3)
+ *(.init3)
+ *(.init4)
+ .init4         0x00000214       0x1a c:/winavr-20090313/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr51/crtm1280.o
+                0x00000214                __do_copy_data
+ .init4         0x0000022e       0x10 c:/winavr-20090313/bin/../lib/gcc/avr/4.3.2/avr51\libgcc.a(_clear_bss.o)
+                0x0000022e                __do_clear_bss
+ *(.init4)
+ *(.init5)
+ *(.init5)
+ *(.init6)
+ .init6         0x0000023e       0x16 c:/winavr-20090313/bin/../lib/gcc/avr/4.3.2/avr51\libgcc.a(_ctors.o)
+                0x0000023e                __do_global_ctors
+ *(.init6)
+ *(.init7)
+ *(.init7)
+ *(.init8)
+ *(.init8)
+ *(.init9)
+ .init9         0x00000254        0x8 c:/winavr-20090313/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr51/crtm1280.o
+ *(.init9)
+ *(.text)
+ .text          0x0000025c        0x4 c:/winavr-20090313/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr51/crtm1280.o
+                0x0000025c                __vector_38
+                0x0000025c                __vector_22
+                0x0000025c                __vector_28
+                0x0000025c                __vector_32
+                0x0000025c                __vector_34
+                0x0000025c                __vector_24
+                0x0000025c                __vector_12
+                0x0000025c                __vector_55
+                0x0000025c                __vector_46
+                0x0000025c                __bad_interrupt
+                0x0000025c                __vector_31
+                0x0000025c                __vector_35
+                0x0000025c                __vector_39
+                0x0000025c                __vector_30
+                0x0000025c                __vector_45
+                0x0000025c                __vector_11
+                0x0000025c                __vector_13
+                0x0000025c                __vector_17
+                0x0000025c                __vector_19
+                0x0000025c                __vector_56
+                0x0000025c                __vector_49
+                0x0000025c                __vector_41
+                0x0000025c                __vector_43
+                0x0000025c                __vector_27
+                0x0000025c                __vector_33
+                0x0000025c                __vector_47
+                0x0000025c                __vector_52
+                0x0000025c                __vector_37
+                0x0000025c                __vector_44
+                0x0000025c                __vector_9
+                0x0000025c                __vector_21
+                0x0000025c                __vector_15
+                0x0000025c                __vector_29
+                0x0000025c                __vector_40
+                0x0000025c                __vector_26
+                0x0000025c                __vector_48
+                0x0000025c                __vector_14
+                0x0000025c                __vector_53
+                0x0000025c                __vector_10
+                0x0000025c                __vector_50
+                0x0000025c                __vector_16
+                0x0000025c                __vector_18
+                0x0000025c                __vector_20
+                0x0000025c                __vector_42
+ .text          0x00000260      0xdb4 ./LiquidCrystal.o
+                0x0000064c                LiquidCrystal::scrollDisplayRight()
+                0x00000366                LiquidCrystal::write4bits(unsigned char)
+                0x000004a2                LiquidCrystal::command(unsigned char)
+                0x00000564                LiquidCrystal::noAutoscroll()
+                0x00000778                LiquidCrystal::display()
+                0x00000be8                LiquidCrystal::LiquidCrystal(unsigned char, unsigned char, unsigned char, unsigned char, unsigned char, unsigned char)
+                0x00000478                LiquidCrystal::write(unsigned char)
+                0x0000089e                LiquidCrystal::home()
+                0x000004cc                LiquidCrystal::createChar(unsigned char, unsigned char*)
+                0x000007b2                LiquidCrystal::noDisplay()
+                0x000002d8                LiquidCrystal::write8bits(unsigned char)
+                0x00000b58                LiquidCrystal::LiquidCrystal(unsigned char, unsigned char, unsigned char, unsigned char, unsigned char, unsigned char)
+                0x00000704                LiquidCrystal::cursor()
+                0x000008f2                LiquidCrystal::begin(unsigned char, unsigned char, unsigned char)
+                0x00000a6a                LiquidCrystal::init(unsigned char, unsigned char, unsigned char, unsigned char, unsigned char, unsigned char, unsigned char, unsigned char, unsigned char, unsigned char, unsigned char, unsigned char)
+                0x000005d8                LiquidCrystal::rightToLeft()
+                0x00000d9c                LiquidCrystal::LiquidCrystal(unsigned char, unsigned char, unsigned char, unsigned char, unsigned char, unsigned char, unsigned char, unsigned char, unsigned char, unsigned char)
+                0x00000ed8                LiquidCrystal::LiquidCrystal(unsigned char, unsigned char, unsigned char, unsigned char, unsigned char, unsigned char, unsigned char, unsigned char, unsigned char, unsigned char, unsigned char)
+                0x000006ca                LiquidCrystal::noBlink()
+                0x00000284                LiquidCrystal::pulseEnable()
+                0x0000073e                LiquidCrystal::noCursor()
+                0x00000c78                LiquidCrystal::LiquidCrystal(unsigned char, unsigned char, unsigned char, unsigned char, unsigned char, unsigned char, unsigned char)
+                0x00000612                LiquidCrystal::leftToRight()
+                0x00000260                Print::Print()
+                0x000008c8                LiquidCrystal::clear()
+                0x000007ec                LiquidCrystal::setCursor(unsigned char, unsigned char)
+                0x0000066e                LiquidCrystal::scrollDisplayLeft()
+                0x00000690                LiquidCrystal::blink()
+                0x000003f4                LiquidCrystal::send(unsigned char, unsigned char)
+                0x0000059e                LiquidCrystal::autoscroll()
+                0x00000d0a                LiquidCrystal::LiquidCrystal(unsigned char, unsigned char, unsigned char, unsigned char, unsigned char, unsigned char, unsigned char)
+                0x00000f76                LiquidCrystal::LiquidCrystal(unsigned char, unsigned char, unsigned char, unsigned char, unsigned char, unsigned char, unsigned char, unsigned char, unsigned char, unsigned char, unsigned char)
+                0x00000e3a                LiquidCrystal::LiquidCrystal(unsigned char, unsigned char, unsigned char, unsigned char, unsigned char, unsigned char, unsigned char, unsigned char, unsigned char, unsigned char)
+ .text          0x00001014      0x25a ./main.o
+                0x00001092                loop
+                0x00001258                main
+                0x000011d0                setup
+ .text          0x0000126e       0x82 ./radioclient.o
+                0x0000126e                radio_rxhandler(unsigned char)
+                0x00001298                radioSend(unsigned char)
+                0x000012c0                radioInitSetup()
+ .text          0x000012f0      0x800 ./vrbot.o
+                0x000013d4                VRbot_RecognizeSD(unsigned char)
+                0x00001600                VRbot_Detect()
+                0x0000155a                VRbot_CheckResult()
+                0x00001658                SD_Recognition()
+                0x00001402                VRbot_setup_int()
+                0x000015ae                VRbot_SetLanguage(unsigned char)
+                0x000012f0                VRbot_write(unsigned char)
+                0x0000193a                vrbot_setup()
+                0x0000139a                VRbot_SetTimeout(unsigned char)
+                0x00001476                VRbot_read()
+ .text          0x00001af0      0x8ee ./radio/radio.o
+                0x0000220e                Radio_Transmit(_rp*, _radio_tx_wait)
+                0x00001e90                Radio_Init()
+                0x00002000                Radio_Configure_Rx(_radio_pipe, unsigned char*, _ed)
+                0x000022f2                int0handler()
+                0x00001af0                Radio_Drop_Rate()
+                0x00001f98                Radio_Configure(_radio_dr, _radio_tx_power)
+                0x00001bfa                Radio_Set_Tx_Addr(unsigned char*)
+                0x00001d04                Radio_Receive(_rp*)
+ .text          0x000023de      0x16c ./radio/spi.o
+                0x00002504                SPI_Init()
+                0x000023de                SPI_ReadWrite_Block(unsigned char*, unsigned char*, unsigned char)
+                0x00002466                SPI_Write_Block(unsigned char*, unsigned char)
+                0x000024ca                SPI_Write_Byte(unsigned char)
+ .text          0x0000254a      0x6fa C:\Users\derekja\workspace\SENG466Project1\libmegaCore.a(HardwareSerial.o)
+                0x000029ee                HardwareSerial::available()
+                0x00002a7e                HardwareSerial::write(unsigned char)
+                0x000027b8                HardwareSerial::begin(long)
+                0x00002598                __vector_25
+                0x000026a0                __vector_54
+                0x00002a66                HardwareSerial::flush()
+                0x0000299a                HardwareSerial::end()
+                0x00002758                HardwareSerial::HardwareSerial(ring_buffer*, unsigned char volatile*, unsigned char volatile*, unsigned char volatile*, unsigned char volatile*, unsigned char volatile*, unsigned char, unsigned char, unsigned char, unsigned char, unsigned char)
+                0x000026f8                HardwareSerial::HardwareSerial(ring_buffer*, unsigned char volatile*, unsigned char volatile*, unsigned char volatile*, unsigned char volatile*, unsigned char volatile*, unsigned char, unsigned char, unsigned char, unsigned char, unsigned char)
+                0x00002648                __vector_51
+                0x000025f0                __vector_36
+                0x00002a16                HardwareSerial::read()
+                0x0000254a                store_char(unsigned char, ring_buffer*)
+ .text          0x00002c44      0x53c C:\Users\derekja\workspace\SENG466Project1\libmegaCore.a(Print.o)
+                0x00002f50                Print::println(unsigned int, int)
+                0x00002f0c                Print::println()
+                0x00002fe2                Print::println(int, int)
+                0x00002cc2                Print::printNumber(unsigned long, unsigned char)
+                0x00002c74                Print::write(unsigned char const*, unsigned int)
+                0x00003164                Print::print(double, int)
+                0x00002ee8                Print::print(char, int)
+                0x00002c44                Print::write(char const*)
+                0x0000304c                Print::printFloat(double, unsigned char)
+                0x00002ec2                Print::print(int, int)
+                0x00002e32                Print::print(unsigned char, int)
+                0x00002fb6                Print::println(char const*)
+                0x00002f82                Print::println(unsigned char, int)
+                0x00003018                Print::println(char, int)
+                0x00002e10                Print::print(unsigned int, int)
+                0x00002cb2                Print::print(char const*)
+                0x00002df2                Print::print(unsigned long, int)
+                0x00002fcc                Print::println(long, int)
+                0x0000316a                Print::println(double, int)
+                0x00002e56                Print::print(long, int)
+                0x00002f3a                Print::println(unsigned long, int)
+ .text          0x00003180      0x460 C:\Users\derekja\workspace\SENG466Project1\libmegaCore.a(WInterrupts.o)
+                0x000032d0                __vector_1
+                0x000034ba                __vector_6
+                0x00003394                __vector_3
+                0x00003180                attachInterrupt
+                0x00003278                detachInterrupt
+                0x0000351c                __vector_7
+                0x00003458                __vector_5
+                0x000033f6                __vector_4
+                0x00003332                __vector_2
+                0x0000357e                __vector_8
+ .text          0x000035e0      0x214 C:\Users\derekja\workspace\SENG466Project1\libmegaCore.a(wiring.o)
+                0x000035e0                __vector_23
+                0x000037e8                __cxa_pure_virtual
+                0x00003740                init
+                0x0000368c                micros
+                0x000036d8                delay
+                0x00003670                millis
+                0x0000372c                delayMicroseconds
+ .text          0x000037f4      0x1e6 C:\Users\derekja\workspace\SENG466Project1\libmegaCore.a(wiring_digital.o)
+                0x00003906                digitalRead
+                0x00003834                digitalWrite
+                0x000037f4                pinMode
+ .text          0x000039da        0x0 C:\Users\derekja\workspace\SENG466Project1\libmegaCore.a(pins_arduino.o)
+ .text          0x000039da        0x0 c:/winavr-20090313/bin/../lib/gcc/avr/4.3.2/avr51\libgcc.a(_mulsi3.o)
+ .text          0x000039da        0x0 c:/winavr-20090313/bin/../lib/gcc/avr/4.3.2/avr51\libgcc.a(_divmodhi4.o)
+ .text          0x000039da        0x0 c:/winavr-20090313/bin/../lib/gcc/avr/4.3.2/avr51\libgcc.a(_udivmodsi4.o)
+ .text          0x000039da        0x0 c:/winavr-20090313/bin/../lib/gcc/avr/4.3.2/avr51\libgcc.a(_divmodsi4.o)
+ .text          0x000039da        0x0 c:/winavr-20090313/bin/../lib/gcc/avr/4.3.2/avr51\libgcc.a(_exit.o)
+ .text          0x000039da        0x0 c:/winavr-20090313/bin/../lib/gcc/avr/4.3.2/avr51\libgcc.a(_clear_bss.o)
+ .text          0x000039da        0x0 c:/winavr-20090313/bin/../lib/gcc/avr/4.3.2/avr51\libgcc.a(_ctors.o)
+ .text          0x000039da       0x58 c:/winavr-20090313/bin/../lib/gcc/avr/4.3.2/avr51\libgcc.a(_fixunssfsi.o)
+                0x000039da                __fixunssfsi
+ .text          0x00003a32      0x354 c:/winavr-20090313/bin/../lib/gcc/avr/4.3.2/avr51\libgcc.a(_addsub_sf.o)
+                0x00003cca                __subsf3
+                0x00003d2c                __addsf3
+ .text          0x00003d86      0x1f4 c:/winavr-20090313/bin/../lib/gcc/avr/4.3.2/avr51\libgcc.a(_mul_sf.o)
+                0x00003d86                __mulsf3
+ .text          0x00003f7a      0x158 c:/winavr-20090313/bin/../lib/gcc/avr/4.3.2/avr51\libgcc.a(_div_sf.o)
+                0x00003f7a                __divsf3
+ .text          0x000040d2       0x60 c:/winavr-20090313/bin/../lib/gcc/avr/4.3.2/avr51\libgcc.a(_ge_sf.o)
+                0x000040d2                __gesf2
+ .text          0x00004132       0x60 c:/winavr-20090313/bin/../lib/gcc/avr/4.3.2/avr51\libgcc.a(_lt_sf.o)
+                0x00004132                __ltsf2
+ .text          0x00004192       0xbc c:/winavr-20090313/bin/../lib/gcc/avr/4.3.2/avr51\libgcc.a(_si_to_sf.o)
+                0x00004192                __floatsisf
+ .text          0x0000424e       0xa8 c:/winavr-20090313/bin/../lib/gcc/avr/4.3.2/avr51\libgcc.a(_sf_to_si.o)
+                0x0000424e                __fixsfsi
+ .text          0x000042f6        0x0 c:/winavr-20090313/bin/../lib/gcc/avr/4.3.2/avr51\libgcc.a(_thenan_sf.o)
+ .text          0x000042f6       0xf2 c:/winavr-20090313/bin/../lib/gcc/avr/4.3.2/avr51\libgcc.a(_usi_to_sf.o)
+                0x000042f6                __floatunsisf
+ .text          0x000043e8        0x0 c:/winavr-20090313/bin/../lib/gcc/avr/4.3.2/avr51\libgcc.a(_udivmodhi4.o)
+ .text          0x000043e8        0x0 c:/winavr-20090313/bin/../lib/gcc/avr/4.3.2/avr51\libgcc.a(_prologue.o)
+ .text          0x000043e8        0x0 c:/winavr-20090313/bin/../lib/gcc/avr/4.3.2/avr51\libgcc.a(_epilogue.o)
+ .text          0x000043e8        0x0 c:/winavr-20090313/bin/../lib/gcc/avr/4.3.2/avr51\libgcc.a(_tablejump.o)
+ .text          0x000043e8       0x9e c:/winavr-20090313/bin/../lib/gcc/avr/4.3.2/avr51\libgcc.a(_clzsi2.o)
+                0x000043e8                __clzsi2
+ .text          0x00004486      0x1aa c:/winavr-20090313/bin/../lib/gcc/avr/4.3.2/avr51\libgcc.a(_pack_sf.o)
+                0x00004486                __pack_f
+ .text          0x00004630       0xf0 c:/winavr-20090313/bin/../lib/gcc/avr/4.3.2/avr51\libgcc.a(_unpack_sf.o)
+                0x00004630                __unpack_f
+ .text          0x00004720       0xb2 c:/winavr-20090313/bin/../lib/gcc/avr/4.3.2/avr51\libgcc.a(_fpcmp_parts_sf.o)
+                0x00004720                __fpcmp_parts_f
+ .text          0x000047d2        0x0 c:/winavr-20090313/bin/../lib/gcc/avr/4.3.2/avr51\libgcc.a(_clz.o)
+                0x000047d2                . = ALIGN (0x2)
+ *(.text.*)
+ .text.libgcc   0x000047d2       0x3e c:/winavr-20090313/bin/../lib/gcc/avr/4.3.2/avr51\libgcc.a(_mulsi3.o)
+                0x000047d2                __mulsi3
+ .text.libgcc   0x00004810       0x26 c:/winavr-20090313/bin/../lib/gcc/avr/4.3.2/avr51\libgcc.a(_divmodhi4.o)
+                0x00004810                __divmodhi4
+                0x00004810                _div
+ .text.libgcc   0x00004836       0x44 c:/winavr-20090313/bin/../lib/gcc/avr/4.3.2/avr51\libgcc.a(_udivmodsi4.o)
+                0x00004836                __udivmodsi4
+ .text.libgcc   0x0000487a       0x36 c:/winavr-20090313/bin/../lib/gcc/avr/4.3.2/avr51\libgcc.a(_divmodsi4.o)
+                0x0000487a                __divmodsi4
+ .text.libgcc   0x000048b0        0x0 c:/winavr-20090313/bin/../lib/gcc/avr/4.3.2/avr51\libgcc.a(_exit.o)
+ .text.libgcc   0x000048b0        0x0 c:/winavr-20090313/bin/../lib/gcc/avr/4.3.2/avr51\libgcc.a(_clear_bss.o)
+ .text.libgcc   0x000048b0        0x0 c:/winavr-20090313/bin/../lib/gcc/avr/4.3.2/avr51\libgcc.a(_ctors.o)
+ .text.libgcc   0x000048b0       0x28 c:/winavr-20090313/bin/../lib/gcc/avr/4.3.2/avr51\libgcc.a(_udivmodhi4.o)
+                0x000048b0                __udivmodhi4
+ .text.libgcc   0x000048d8       0x38 c:/winavr-20090313/bin/../lib/gcc/avr/4.3.2/avr51\libgcc.a(_prologue.o)
+                0x000048d8                __prologue_saves__
+ .text.libgcc   0x00004910       0x36 c:/winavr-20090313/bin/../lib/gcc/avr/4.3.2/avr51\libgcc.a(_epilogue.o)
+                0x00004910                __epilogue_restores__
+ .text.libgcc   0x00004946        0xc c:/winavr-20090313/bin/../lib/gcc/avr/4.3.2/avr51\libgcc.a(_tablejump.o)
+                0x0000494a                __tablejump__
+                0x00004946                __tablejump2__
+                0x00004952                . = ALIGN (0x2)
+ *(.fini9)
+ .fini9         0x00004952        0x0 c:/winavr-20090313/bin/../lib/gcc/avr/4.3.2/avr51\libgcc.a(_exit.o)
+                0x00004952                exit
+                0x00004952                _exit
+ *(.fini9)
+ *(.fini8)
+ *(.fini8)
+ *(.fini7)
+ *(.fini7)
+ *(.fini6)
+ *(.fini6)
+ *(.fini5)
+ *(.fini5)
+ *(.fini4)
+ *(.fini4)
+ *(.fini3)
+ *(.fini3)
+ *(.fini2)
+ *(.fini2)
+ *(.fini1)
+ *(.fini1)
+ *(.fini0)
+ .fini0         0x00004952        0x4 c:/winavr-20090313/bin/../lib/gcc/avr/4.3.2/avr51\libgcc.a(_exit.o)
+ *(.fini0)
+                0x00004956                _etext = .
+
+.data           0x00800200      0x398 load address 0x00004956
+                0x00800200                PROVIDE (__data_start, .)
+ *(.data)
+ .data          0x00800200        0x0 c:/winavr-20090313/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr51/crtm1280.o
+ .data          0x00800200       0x12 ./LiquidCrystal.o
+                0x00800200                vtable for LiquidCrystal
+ .data          0x00800212       0x97 ./main.o
+ .data          0x008002a9        0xa ./radioclient.o
+ .data          0x008002b3      0x1b3 ./vrbot.o
+ .data          0x00800466       0x13 ./radio/radio.o
+ .data          0x00800479        0x0 ./radio/spi.o
+ .data          0x00800479        0xa C:\Users\derekja\workspace\SENG466Project1\libmegaCore.a(HardwareSerial.o)
+                0x00800479                vtable for HardwareSerial
+ .data          0x00800483        0xc C:\Users\derekja\workspace\SENG466Project1\libmegaCore.a(Print.o)
+                0x00800485                vtable for Print
+ .data          0x0080048f        0x0 C:\Users\derekja\workspace\SENG466Project1\libmegaCore.a(WInterrupts.o)
+ .data          0x0080048f        0x0 C:\Users\derekja\workspace\SENG466Project1\libmegaCore.a(wiring.o)
+ .data          0x0080048f        0x0 C:\Users\derekja\workspace\SENG466Project1\libmegaCore.a(wiring_digital.o)
+ .data          0x0080048f        0x0 C:\Users\derekja\workspace\SENG466Project1\libmegaCore.a(pins_arduino.o)
+ .data          0x0080048f        0x0 c:/winavr-20090313/bin/../lib/gcc/avr/4.3.2/avr51\libgcc.a(_mulsi3.o)
+ .data          0x0080048f        0x0 c:/winavr-20090313/bin/../lib/gcc/avr/4.3.2/avr51\libgcc.a(_divmodhi4.o)
+ .data          0x0080048f        0x0 c:/winavr-20090313/bin/../lib/gcc/avr/4.3.2/avr51\libgcc.a(_udivmodsi4.o)
+ .data          0x0080048f        0x0 c:/winavr-20090313/bin/../lib/gcc/avr/4.3.2/avr51\libgcc.a(_divmodsi4.o)
+ .data          0x0080048f        0x0 c:/winavr-20090313/bin/../lib/gcc/avr/4.3.2/avr51\libgcc.a(_exit.o)
+ .data          0x0080048f        0x0 c:/winavr-20090313/bin/../lib/gcc/avr/4.3.2/avr51\libgcc.a(_clear_bss.o)
+ .data          0x0080048f        0x0 c:/winavr-20090313/bin/../lib/gcc/avr/4.3.2/avr51\libgcc.a(_ctors.o)
+ .data          0x0080048f        0x0 c:/winavr-20090313/bin/../lib/gcc/avr/4.3.2/avr51\libgcc.a(_fixunssfsi.o)
+ .data          0x0080048f        0x0 c:/winavr-20090313/bin/../lib/gcc/avr/4.3.2/avr51\libgcc.a(_addsub_sf.o)
+ .data          0x0080048f        0x0 c:/winavr-20090313/bin/../lib/gcc/avr/4.3.2/avr51\libgcc.a(_mul_sf.o)
+ .data          0x0080048f        0x0 c:/winavr-20090313/bin/../lib/gcc/avr/4.3.2/avr51\libgcc.a(_div_sf.o)
+ .data          0x0080048f        0x0 c:/winavr-20090313/bin/../lib/gcc/avr/4.3.2/avr51\libgcc.a(_ge_sf.o)
+ .data          0x0080048f        0x0 c:/winavr-20090313/bin/../lib/gcc/avr/4.3.2/avr51\libgcc.a(_lt_sf.o)
+ .data          0x0080048f        0x0 c:/winavr-20090313/bin/../lib/gcc/avr/4.3.2/avr51\libgcc.a(_si_to_sf.o)
+ .data          0x0080048f        0x0 c:/winavr-20090313/bin/../lib/gcc/avr/4.3.2/avr51\libgcc.a(_sf_to_si.o)
+ .data          0x0080048f        0x8 c:/winavr-20090313/bin/../lib/gcc/avr/4.3.2/avr51\libgcc.a(_thenan_sf.o)
+                0x0080048f                __thenan_sf
+ .data          0x00800497        0x0 c:/winavr-20090313/bin/../lib/gcc/avr/4.3.2/avr51\libgcc.a(_usi_to_sf.o)
+ .data          0x00800497        0x0 c:/winavr-20090313/bin/../lib/gcc/avr/4.3.2/avr51\libgcc.a(_udivmodhi4.o)
+ .data          0x00800497        0x0 c:/winavr-20090313/bin/../lib/gcc/avr/4.3.2/avr51\libgcc.a(_prologue.o)
+ .data          0x00800497        0x0 c:/winavr-20090313/bin/../lib/gcc/avr/4.3.2/avr51\libgcc.a(_epilogue.o)
+ .data          0x00800497        0x0 c:/winavr-20090313/bin/../lib/gcc/avr/4.3.2/avr51\libgcc.a(_tablejump.o)
+ .data          0x00800497        0x0 c:/winavr-20090313/bin/../lib/gcc/avr/4.3.2/avr51\libgcc.a(_clzsi2.o)
+ .data          0x00800497        0x0 c:/winavr-20090313/bin/../lib/gcc/avr/4.3.2/avr51\libgcc.a(_pack_sf.o)
+ .data          0x00800497        0x0 c:/winavr-20090313/bin/../lib/gcc/avr/4.3.2/avr51\libgcc.a(_unpack_sf.o)
+ .data          0x00800497        0x0 c:/winavr-20090313/bin/../lib/gcc/avr/4.3.2/avr51\libgcc.a(_fpcmp_parts_sf.o)
+ .data          0x00800497      0x100 c:/winavr-20090313/bin/../lib/gcc/avr/4.3.2/avr51\libgcc.a(_clz.o)
+                0x00800497                __clz_tab
+ *(.data*)
+ *(.rodata)
+ *(.rodata*)
+ *(.gnu.linkonce.d*)
+                0x00800598                . = ALIGN (0x2)
+ *fill*         0x00800597        0x1 00
+                0x00800598                _edata = .
+                0x00800598                PROVIDE (__data_end, .)
+
+.bss            0x00800598      0x2c5
+                0x00800598                PROVIDE (__bss_start, .)
+ *(.bss)
+ .bss           0x00800598        0x0 c:/winavr-20090313/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr51/crtm1280.o
+ .bss           0x00800598        0x0 ./LiquidCrystal.o
+ .bss           0x00800598       0x13 ./main.o
+                0x00800598                lcd
+ .bss           0x008005ab       0x20 ./radioclient.o
+ .bss           0x008005cb       0x1c ./vrbot.o
+                0x008005cd                _baudRate
+                0x008005d1                _bitPeriod
+                0x008005cc                _transmitPin
+                0x008005d3                message
+                0x008005cb                _receivePin
+ .bss           0x008005e7        0x1 ./radio/radio.o
+ .bss           0x008005e8        0x0 ./radio/spi.o
+ .bss           0x008005e8      0x25c C:\Users\derekja\workspace\SENG466Project1\libmegaCore.a(HardwareSerial.o)
+                0x0080080b                Serial1
+                0x0080066c                rx_buffer1
+                0x00800831                Serial3
+                0x008005e8                rx_buffer
+                0x008007f8                Serial
+                0x008006f0                rx_buffer2
+                0x00800774                rx_buffer3
+                0x0080081e                Serial2
+ .bss           0x00800844        0x0 C:\Users\derekja\workspace\SENG466Project1\libmegaCore.a(Print.o)
+ .bss           0x00800844       0x10 C:\Users\derekja\workspace\SENG466Project1\libmegaCore.a(WInterrupts.o)
+ .bss           0x00800854        0x9 C:\Users\derekja\workspace\SENG466Project1\libmegaCore.a(wiring.o)
+                0x00800854                timer0_overflow_count
+                0x00800858                timer0_millis
+ .bss           0x0080085d        0x0 C:\Users\derekja\workspace\SENG466Project1\libmegaCore.a(wiring_digital.o)
+ .bss           0x0080085d        0x0 C:\Users\derekja\workspace\SENG466Project1\libmegaCore.a(pins_arduino.o)
+ .bss           0x0080085d        0x0 c:/winavr-20090313/bin/../lib/gcc/avr/4.3.2/avr51\libgcc.a(_mulsi3.o)
+ .bss           0x0080085d        0x0 c:/winavr-20090313/bin/../lib/gcc/avr/4.3.2/avr51\libgcc.a(_divmodhi4.o)
+ .bss           0x0080085d        0x0 c:/winavr-20090313/bin/../lib/gcc/avr/4.3.2/avr51\libgcc.a(_udivmodsi4.o)
+ .bss           0x0080085d        0x0 c:/winavr-20090313/bin/../lib/gcc/avr/4.3.2/avr51\libgcc.a(_divmodsi4.o)
+ .bss           0x0080085d        0x0 c:/winavr-20090313/bin/../lib/gcc/avr/4.3.2/avr51\libgcc.a(_exit.o)
+ .bss           0x0080085d        0x0 c:/winavr-20090313/bin/../lib/gcc/avr/4.3.2/avr51\libgcc.a(_clear_bss.o)
+ .bss           0x0080085d        0x0 c:/winavr-20090313/bin/../lib/gcc/avr/4.3.2/avr51\libgcc.a(_ctors.o)
+ .bss           0x0080085d        0x0 c:/winavr-20090313/bin/../lib/gcc/avr/4.3.2/avr51\libgcc.a(_fixunssfsi.o)
+ .bss           0x0080085d        0x0 c:/winavr-20090313/bin/../lib/gcc/avr/4.3.2/avr51\libgcc.a(_addsub_sf.o)
+ .bss           0x0080085d        0x0 c:/winavr-20090313/bin/../lib/gcc/avr/4.3.2/avr51\libgcc.a(_mul_sf.o)
+ .bss           0x0080085d        0x0 c:/winavr-20090313/bin/../lib/gcc/avr/4.3.2/avr51\libgcc.a(_div_sf.o)
+ .bss           0x0080085d        0x0 c:/winavr-20090313/bin/../lib/gcc/avr/4.3.2/avr51\libgcc.a(_ge_sf.o)
+ .bss           0x0080085d        0x0 c:/winavr-20090313/bin/../lib/gcc/avr/4.3.2/avr51\libgcc.a(_lt_sf.o)
+ .bss           0x0080085d        0x0 c:/winavr-20090313/bin/../lib/gcc/avr/4.3.2/avr51\libgcc.a(_si_to_sf.o)
+ .bss           0x0080085d        0x0 c:/winavr-20090313/bin/../lib/gcc/avr/4.3.2/avr51\libgcc.a(_sf_to_si.o)
+ .bss           0x0080085d        0x0 c:/winavr-20090313/bin/../lib/gcc/avr/4.3.2/avr51\libgcc.a(_thenan_sf.o)
+ .bss           0x0080085d        0x0 c:/winavr-20090313/bin/../lib/gcc/avr/4.3.2/avr51\libgcc.a(_usi_to_sf.o)
+ .bss           0x0080085d        0x0 c:/winavr-20090313/bin/../lib/gcc/avr/4.3.2/avr51\libgcc.a(_udivmodhi4.o)
+ .bss           0x0080085d        0x0 c:/winavr-20090313/bin/../lib/gcc/avr/4.3.2/avr51\libgcc.a(_prologue.o)
+ .bss           0x0080085d        0x0 c:/winavr-20090313/bin/../lib/gcc/avr/4.3.2/avr51\libgcc.a(_epilogue.o)
+ .bss           0x0080085d        0x0 c:/winavr-20090313/bin/../lib/gcc/avr/4.3.2/avr51\libgcc.a(_tablejump.o)
+ .bss           0x0080085d        0x0 c:/winavr-20090313/bin/../lib/gcc/avr/4.3.2/avr51\libgcc.a(_clzsi2.o)
+ .bss           0x0080085d        0x0 c:/winavr-20090313/bin/../lib/gcc/avr/4.3.2/avr51\libgcc.a(_pack_sf.o)
+ .bss           0x0080085d        0x0 c:/winavr-20090313/bin/../lib/gcc/avr/4.3.2/avr51\libgcc.a(_unpack_sf.o)
+ .bss           0x0080085d        0x0 c:/winavr-20090313/bin/../lib/gcc/avr/4.3.2/avr51\libgcc.a(_fpcmp_parts_sf.o)
+ .bss           0x0080085d        0x0 c:/winavr-20090313/bin/../lib/gcc/avr/4.3.2/avr51\libgcc.a(_clz.o)
+ *(.bss*)
+ *(COMMON)
+                0x0080085d                PROVIDE (__bss_end, .)
+                0x00004956                __data_load_start = LOADADDR (.data)
+                0x00004cee                __data_load_end = (__data_load_start + SIZEOF (.data))
+
+.noinit         0x0080085d        0x0
+                0x0080085d                PROVIDE (__noinit_start, .)
+ *(.noinit*)
+                0x0080085d                PROVIDE (__noinit_end, .)
+                0x0080085d                _end = .
+                0x0080085d                PROVIDE (__heap_start, .)
+
+.eeprom         0x00810000        0x0
+ *(.eeprom*)
+                0x00810000                __eeprom_end = .
+
+.fuse
+ *(.fuse)
+ *(.lfuse)
+ *(.hfuse)
+ *(.efuse)
+
+.lock
+ *(.lock*)
+
+.signature
+ *(.signature*)
+
+.stab           0x00000000     0x4998
+ *(.stab)
+ .stab          0x00000000     0x14b8 ./LiquidCrystal.o
+ .stab          0x000014b8      0x7a4 ./main.o
+                                0x7b0 (size before relaxing)
+ .stab          0x00001c5c      0x678 ./radioclient.o
+                                0x684 (size before relaxing)
+ .stab          0x000022d4      0xe58 ./vrbot.o
+                                0xe64 (size before relaxing)
+ .stab          0x0000312c     0x12c0 ./radio/radio.o
+                               0x12cc (size before relaxing)
+ .stab          0x000043ec      0x5ac ./radio/spi.o
+                                0x5b8 (size before relaxing)
+
+.stabstr        0x00000000     0x35a0
+ *(.stabstr)
+ .stabstr       0x00000000     0x35a0 ./LiquidCrystal.o
+
+.stab.excl
+ *(.stab.excl)
+
+.stab.exclstr
+ *(.stab.exclstr)
+
+.stab.index
+ *(.stab.index)
+
+.stab.indexstr
+ *(.stab.indexstr)
+
+.comment
+ *(.comment)
+
+.debug
+ *(.debug)
+
+.line
+ *(.line)
+
+.debug_srcinfo
+ *(.debug_srcinfo)
+
+.debug_sfnames
+ *(.debug_sfnames)
+
+.debug_aranges
+ *(.debug_aranges)
+
+.debug_pubnames
+ *(.debug_pubnames)
+
+.debug_info
+ *(.debug_info)
+ *(.gnu.linkonce.wi.*)
+
+.debug_abbrev
+ *(.debug_abbrev)
+
+.debug_line
+ *(.debug_line)
+
+.debug_frame
+ *(.debug_frame)
+
+.debug_str
+ *(.debug_str)
+
+.debug_loc
+ *(.debug_loc)
+
+.debug_macinfo
+ *(.debug_macinfo)
+OUTPUT(SENG466Project1.elf elf32-avr)
+LOAD linker stubs
+
+Cross Reference Table
+
+Symbol                                            File
+HardwareSerial::HardwareSerial(ring_buffer*, unsigned char volatile*, unsigned char volatile*, unsigned char volatile*, unsigned char volatile*, unsigned char volatile*, unsigned char, unsigned char, unsigned char, unsigned char, unsigned char) C:\Users\derekja\workspace\SENG466Project1\libmegaCore.a(HardwareSerial.o)
+HardwareSerial::HardwareSerial(ring_buffer*, unsigned char volatile*, unsigned char volatile*, unsigned char volatile*, unsigned char volatile*, unsigned char volatile*, unsigned char, unsigned char, unsigned char, unsigned char, unsigned char) C:\Users\derekja\workspace\SENG466Project1\libmegaCore.a(HardwareSerial.o)
+HardwareSerial::available()                       C:\Users\derekja\workspace\SENG466Project1\libmegaCore.a(HardwareSerial.o)
+HardwareSerial::begin(long)                       C:\Users\derekja\workspace\SENG466Project1\libmegaCore.a(HardwareSerial.o)
+                                                  ./vrbot.o
+                                                  ./main.o
+HardwareSerial::end()                             C:\Users\derekja\workspace\SENG466Project1\libmegaCore.a(HardwareSerial.o)
+HardwareSerial::flush()                           C:\Users\derekja\workspace\SENG466Project1\libmegaCore.a(HardwareSerial.o)
+HardwareSerial::read()                            C:\Users\derekja\workspace\SENG466Project1\libmegaCore.a(HardwareSerial.o)
+HardwareSerial::write(unsigned char)              C:\Users\derekja\workspace\SENG466Project1\libmegaCore.a(HardwareSerial.o)
+LiquidCrystal::LiquidCrystal(unsigned char, unsigned char, unsigned char, unsigned char, unsigned char, unsigned char) ./LiquidCrystal.o
+LiquidCrystal::LiquidCrystal(unsigned char, unsigned char, unsigned char, unsigned char, unsigned char, unsigned char) ./LiquidCrystal.o
+                                                  ./main.o
+LiquidCrystal::LiquidCrystal(unsigned char, unsigned char, unsigned char, unsigned char, unsigned char, unsigned char, unsigned char) ./LiquidCrystal.o
+LiquidCrystal::LiquidCrystal(unsigned char, unsigned char, unsigned char, unsigned char, unsigned char, unsigned char, unsigned char) ./LiquidCrystal.o
+LiquidCrystal::LiquidCrystal(unsigned char, unsigned char, unsigned char, unsigned char, unsigned char, unsigned char, unsigned char, unsigned char, unsigned char, unsigned char) ./LiquidCrystal.o
+LiquidCrystal::LiquidCrystal(unsigned char, unsigned char, unsigned char, unsigned char, unsigned char, unsigned char, unsigned char, unsigned char, unsigned char, unsigned char) ./LiquidCrystal.o
+LiquidCrystal::LiquidCrystal(unsigned char, unsigned char, unsigned char, unsigned char, unsigned char, unsigned char, unsigned char, unsigned char, unsigned char, unsigned char, unsigned char) ./LiquidCrystal.o
+LiquidCrystal::LiquidCrystal(unsigned char, unsigned char, unsigned char, unsigned char, unsigned char, unsigned char, unsigned char, unsigned char, unsigned char, unsigned char, unsigned char) ./LiquidCrystal.o
+LiquidCrystal::autoscroll()                       ./LiquidCrystal.o
+LiquidCrystal::begin(unsigned char, unsigned char, unsigned char) ./LiquidCrystal.o
+                                                  ./main.o
+LiquidCrystal::blink()                            ./LiquidCrystal.o
+LiquidCrystal::clear()                            ./LiquidCrystal.o
+                                                  ./vrbot.o
+LiquidCrystal::command(unsigned char)             ./LiquidCrystal.o
+LiquidCrystal::createChar(unsigned char, unsigned char*) ./LiquidCrystal.o
+LiquidCrystal::cursor()                           ./LiquidCrystal.o
+LiquidCrystal::display()                          ./LiquidCrystal.o
+LiquidCrystal::home()                             ./LiquidCrystal.o
+LiquidCrystal::init(unsigned char, unsigned char, unsigned char, unsigned char, unsigned char, unsigned char, unsigned char, unsigned char, unsigned char, unsigned char, unsigned char, unsigned char) ./LiquidCrystal.o
+LiquidCrystal::leftToRight()                      ./LiquidCrystal.o
+LiquidCrystal::noAutoscroll()                     ./LiquidCrystal.o
+LiquidCrystal::noBlink()                          ./LiquidCrystal.o
+LiquidCrystal::noCursor()                         ./LiquidCrystal.o
+LiquidCrystal::noDisplay()                        ./LiquidCrystal.o
+LiquidCrystal::pulseEnable()                      ./LiquidCrystal.o
+LiquidCrystal::rightToLeft()                      ./LiquidCrystal.o
+LiquidCrystal::scrollDisplayLeft()                ./LiquidCrystal.o
+LiquidCrystal::scrollDisplayRight()               ./LiquidCrystal.o
+LiquidCrystal::send(unsigned char, unsigned char) ./LiquidCrystal.o
+LiquidCrystal::setCursor(unsigned char, unsigned char) ./LiquidCrystal.o
+                                                  ./vrbot.o
+                                                  ./main.o
+LiquidCrystal::write(unsigned char)               ./LiquidCrystal.o
+LiquidCrystal::write4bits(unsigned char)          ./LiquidCrystal.o
+LiquidCrystal::write8bits(unsigned char)          ./LiquidCrystal.o
+Print::Print()                                    ./LiquidCrystal.o
+Print::print(char const*)                         C:\Users\derekja\workspace\SENG466Project1\libmegaCore.a(Print.o)
+                                                  ./vrbot.o
+                                                  ./radioclient.o
+                                                  ./main.o
+Print::print(char, int)                           C:\Users\derekja\workspace\SENG466Project1\libmegaCore.a(Print.o)
+Print::print(double, int)                         C:\Users\derekja\workspace\SENG466Project1\libmegaCore.a(Print.o)
+Print::print(int, int)                            C:\Users\derekja\workspace\SENG466Project1\libmegaCore.a(Print.o)
+Print::print(long, int)                           C:\Users\derekja\workspace\SENG466Project1\libmegaCore.a(Print.o)
+Print::print(unsigned char, int)                  C:\Users\derekja\workspace\SENG466Project1\libmegaCore.a(Print.o)
+Print::print(unsigned int, int)                   C:\Users\derekja\workspace\SENG466Project1\libmegaCore.a(Print.o)
+Print::print(unsigned long, int)                  C:\Users\derekja\workspace\SENG466Project1\libmegaCore.a(Print.o)
+Print::printFloat(double, unsigned char)          C:\Users\derekja\workspace\SENG466Project1\libmegaCore.a(Print.o)
+Print::printNumber(unsigned long, unsigned char)  C:\Users\derekja\workspace\SENG466Project1\libmegaCore.a(Print.o)
+Print::println()                                  C:\Users\derekja\workspace\SENG466Project1\libmegaCore.a(Print.o)
+Print::println(char const*)                       C:\Users\derekja\workspace\SENG466Project1\libmegaCore.a(Print.o)
+                                                  ./vrbot.o
+                                                  ./main.o
+Print::println(char, int)                         C:\Users\derekja\workspace\SENG466Project1\libmegaCore.a(Print.o)
+Print::println(double, int)                       C:\Users\derekja\workspace\SENG466Project1\libmegaCore.a(Print.o)
+Print::println(int, int)                          C:\Users\derekja\workspace\SENG466Project1\libmegaCore.a(Print.o)
+Print::println(long, int)                         C:\Users\derekja\workspace\SENG466Project1\libmegaCore.a(Print.o)
+Print::println(unsigned char, int)                C:\Users\derekja\workspace\SENG466Project1\libmegaCore.a(Print.o)
+Print::println(unsigned int, int)                 C:\Users\derekja\workspace\SENG466Project1\libmegaCore.a(Print.o)
+Print::println(unsigned long, int)                C:\Users\derekja\workspace\SENG466Project1\libmegaCore.a(Print.o)
+Print::write(char const*)                         C:\Users\derekja\workspace\SENG466Project1\libmegaCore.a(Print.o)
+                                                  C:\Users\derekja\workspace\SENG466Project1\libmegaCore.a(HardwareSerial.o)
+                                                  ./LiquidCrystal.o
+Print::write(unsigned char const*, unsigned int)  C:\Users\derekja\workspace\SENG466Project1\libmegaCore.a(Print.o)
+                                                  C:\Users\derekja\workspace\SENG466Project1\libmegaCore.a(HardwareSerial.o)
+                                                  ./LiquidCrystal.o
+Radio_Configure(_radio_dr, _radio_tx_power)       ./radio/radio.o
+                                                  ./radioclient.o
+Radio_Configure_Rx(_radio_pipe, unsigned char*, _ed) ./radio/radio.o
+                                                  ./radioclient.o
+Radio_Drop_Rate()                                 ./radio/radio.o
+Radio_Init()                                      ./radio/radio.o
+                                                  ./radioclient.o
+Radio_Receive(_rp*)                               ./radio/radio.o
+                                                  ./radioclient.o
+Radio_Set_Tx_Addr(unsigned char*)                 ./radio/radio.o
+                                                  ./radioclient.o
+Radio_Transmit(_rp*, _radio_tx_wait)              ./radio/radio.o
+                                                  ./radioclient.o
+SD_Recognition()                                  ./vrbot.o
+                                                  ./main.o
+SPI_Init()                                        ./radio/spi.o
+                                                  ./radio/radio.o
+SPI_ReadWrite_Block(unsigned char*, unsigned char*, unsigned char) ./radio/spi.o
+                                                  ./radio/radio.o
+SPI_Write_Block(unsigned char*, unsigned char)    ./radio/spi.o
+                                                  ./radio/radio.o
+SPI_Write_Byte(unsigned char)                     ./radio/spi.o
+                                                  ./radio/radio.o
+Serial                                            C:\Users\derekja\workspace\SENG466Project1\libmegaCore.a(HardwareSerial.o)
+                                                  ./vrbot.o
+                                                  ./radioclient.o
+                                                  ./main.o
+Serial1                                           C:\Users\derekja\workspace\SENG466Project1\libmegaCore.a(HardwareSerial.o)
+Serial2                                           C:\Users\derekja\workspace\SENG466Project1\libmegaCore.a(HardwareSerial.o)
+Serial3                                           C:\Users\derekja\workspace\SENG466Project1\libmegaCore.a(HardwareSerial.o)
+VRbot_CheckResult()                               ./vrbot.o
+VRbot_Detect()                                    ./vrbot.o
+VRbot_RecognizeSD(unsigned char)                  ./vrbot.o
+VRbot_SetLanguage(unsigned char)                  ./vrbot.o
+VRbot_SetTimeout(unsigned char)                   ./vrbot.o
+VRbot_read()                                      ./vrbot.o
+VRbot_setup_int()                                 ./vrbot.o
+VRbot_write(unsigned char)                        ./vrbot.o
+__addsf3                                          c:/winavr-20090313/bin/../lib/gcc/avr/4.3.2/avr51\libgcc.a(_addsub_sf.o)
+                                                  C:\Users\derekja\workspace\SENG466Project1\libmegaCore.a(Print.o)
+__bad_interrupt                                   c:/winavr-20090313/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr51/crtm1280.o
+__bss_end                                         c:/winavr-20090313/bin/../lib/gcc/avr/4.3.2/avr51\libgcc.a(_clear_bss.o)
+__bss_start                                       c:/winavr-20090313/bin/../lib/gcc/avr/4.3.2/avr51\libgcc.a(_clear_bss.o)
+__clz_tab                                         c:/winavr-20090313/bin/../lib/gcc/avr/4.3.2/avr51\libgcc.a(_clz.o)
+                                                  c:/winavr-20090313/bin/../lib/gcc/avr/4.3.2/avr51\libgcc.a(_clzsi2.o)
+__clzsi2                                          c:/winavr-20090313/bin/../lib/gcc/avr/4.3.2/avr51\libgcc.a(_clzsi2.o)
+                                                  c:/winavr-20090313/bin/../lib/gcc/avr/4.3.2/avr51\libgcc.a(_usi_to_sf.o)
+                                                  c:/winavr-20090313/bin/../lib/gcc/avr/4.3.2/avr51\libgcc.a(_si_to_sf.o)
+__ctors_end                                       c:/winavr-20090313/bin/../lib/gcc/avr/4.3.2/avr51\libgcc.a(_ctors.o)
+__ctors_start                                     c:/winavr-20090313/bin/../lib/gcc/avr/4.3.2/avr51\libgcc.a(_ctors.o)
+__cxa_pure_virtual                                C:\Users\derekja\workspace\SENG466Project1\libmegaCore.a(wiring.o)
+                                                  C:\Users\derekja\workspace\SENG466Project1\libmegaCore.a(Print.o)
+__data_end                                        c:/winavr-20090313/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr51/crtm1280.o
+__data_load_start                                 c:/winavr-20090313/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr51/crtm1280.o
+__data_start                                      c:/winavr-20090313/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr51/crtm1280.o
+__divmodhi4                                       c:/winavr-20090313/bin/../lib/gcc/avr/4.3.2/avr51\libgcc.a(_divmodhi4.o)
+                                                  C:\Users\derekja\workspace\SENG466Project1\libmegaCore.a(HardwareSerial.o)
+__divmodsi4                                       c:/winavr-20090313/bin/../lib/gcc/avr/4.3.2/avr51\libgcc.a(_divmodsi4.o)
+                                                  ./vrbot.o
+__divsf3                                          c:/winavr-20090313/bin/../lib/gcc/avr/4.3.2/avr51\libgcc.a(_div_sf.o)
+                                                  C:\Users\derekja\workspace\SENG466Project1\libmegaCore.a(Print.o)
+__do_clear_bss                                    c:/winavr-20090313/bin/../lib/gcc/avr/4.3.2/avr51\libgcc.a(_clear_bss.o)
+                                                  C:\Users\derekja\workspace\SENG466Project1\libmegaCore.a(wiring.o)
+                                                  C:\Users\derekja\workspace\SENG466Project1\libmegaCore.a(WInterrupts.o)
+                                                  C:\Users\derekja\workspace\SENG466Project1\libmegaCore.a(HardwareSerial.o)
+                                                  ./radio/radio.o
+                                                  ./vrbot.o
+                                                  ./radioclient.o
+                                                  ./main.o
+__do_copy_data                                    c:/winavr-20090313/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr51/crtm1280.o
+                                                  c:/winavr-20090313/bin/../lib/gcc/avr/4.3.2/avr51\libgcc.a(_clz.o)
+                                                  c:/winavr-20090313/bin/../lib/gcc/avr/4.3.2/avr51\libgcc.a(_thenan_sf.o)
+                                                  C:\Users\derekja\workspace\SENG466Project1\libmegaCore.a(Print.o)
+                                                  C:\Users\derekja\workspace\SENG466Project1\libmegaCore.a(HardwareSerial.o)
+                                                  ./radio/radio.o
+                                                  ./vrbot.o
+                                                  ./radioclient.o
+                                                  ./main.o
+                                                  ./LiquidCrystal.o
+__do_global_ctors                                 c:/winavr-20090313/bin/../lib/gcc/avr/4.3.2/avr51\libgcc.a(_ctors.o)
+                                                  C:\Users\derekja\workspace\SENG466Project1\libmegaCore.a(HardwareSerial.o)
+                                                  ./main.o
+__epilogue_restores__                             c:/winavr-20090313/bin/../lib/gcc/avr/4.3.2/avr51\libgcc.a(_epilogue.o)
+                                                  c:/winavr-20090313/bin/../lib/gcc/avr/4.3.2/avr51\libgcc.a(_usi_to_sf.o)
+                                                  c:/winavr-20090313/bin/../lib/gcc/avr/4.3.2/avr51\libgcc.a(_sf_to_si.o)
+                                                  c:/winavr-20090313/bin/../lib/gcc/avr/4.3.2/avr51\libgcc.a(_si_to_sf.o)
+                                                  c:/winavr-20090313/bin/../lib/gcc/avr/4.3.2/avr51\libgcc.a(_lt_sf.o)
+                                                  c:/winavr-20090313/bin/../lib/gcc/avr/4.3.2/avr51\libgcc.a(_ge_sf.o)
+                                                  c:/winavr-20090313/bin/../lib/gcc/avr/4.3.2/avr51\libgcc.a(_div_sf.o)
+                                                  c:/winavr-20090313/bin/../lib/gcc/avr/4.3.2/avr51\libgcc.a(_mul_sf.o)
+                                                  c:/winavr-20090313/bin/../lib/gcc/avr/4.3.2/avr51\libgcc.a(_addsub_sf.o)
+__fixsfsi                                         c:/winavr-20090313/bin/../lib/gcc/avr/4.3.2/avr51\libgcc.a(_sf_to_si.o)
+                                                  c:/winavr-20090313/bin/../lib/gcc/avr/4.3.2/avr51\libgcc.a(_fixunssfsi.o)
+                                                  C:\Users\derekja\workspace\SENG466Project1\libmegaCore.a(Print.o)
+__fixunssfsi                                      c:/winavr-20090313/bin/../lib/gcc/avr/4.3.2/avr51\libgcc.a(_fixunssfsi.o)
+                                                  C:\Users\derekja\workspace\SENG466Project1\libmegaCore.a(Print.o)
+__floatsisf                                       c:/winavr-20090313/bin/../lib/gcc/avr/4.3.2/avr51\libgcc.a(_si_to_sf.o)
+                                                  C:\Users\derekja\workspace\SENG466Project1\libmegaCore.a(Print.o)
+__floatunsisf                                     c:/winavr-20090313/bin/../lib/gcc/avr/4.3.2/avr51\libgcc.a(_usi_to_sf.o)
+                                                  C:\Users\derekja\workspace\SENG466Project1\libmegaCore.a(Print.o)
+__fpcmp_parts_f                                   c:/winavr-20090313/bin/../lib/gcc/avr/4.3.2/avr51\libgcc.a(_fpcmp_parts_sf.o)
+                                                  c:/winavr-20090313/bin/../lib/gcc/avr/4.3.2/avr51\libgcc.a(_lt_sf.o)
+                                                  c:/winavr-20090313/bin/../lib/gcc/avr/4.3.2/avr51\libgcc.a(_ge_sf.o)
+__gesf2                                           c:/winavr-20090313/bin/../lib/gcc/avr/4.3.2/avr51\libgcc.a(_ge_sf.o)
+                                                  c:/winavr-20090313/bin/../lib/gcc/avr/4.3.2/avr51\libgcc.a(_fixunssfsi.o)
+__heap_end                                        c:/winavr-20090313/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr51/crtm1280.o
+__init                                            c:/winavr-20090313/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr51/crtm1280.o
+__ltsf2                                           c:/winavr-20090313/bin/../lib/gcc/avr/4.3.2/avr51\libgcc.a(_lt_sf.o)
+                                                  C:\Users\derekja\workspace\SENG466Project1\libmegaCore.a(Print.o)
+__mulsf3                                          c:/winavr-20090313/bin/../lib/gcc/avr/4.3.2/avr51\libgcc.a(_mul_sf.o)
+                                                  C:\Users\derekja\workspace\SENG466Project1\libmegaCore.a(Print.o)
+__mulsi3                                          c:/winavr-20090313/bin/../lib/gcc/avr/4.3.2/avr51\libgcc.a(_mulsi3.o)
+                                                  C:\Users\derekja\workspace\SENG466Project1\libmegaCore.a(HardwareSerial.o)
+__pack_f                                          c:/winavr-20090313/bin/../lib/gcc/avr/4.3.2/avr51\libgcc.a(_pack_sf.o)
+                                                  c:/winavr-20090313/bin/../lib/gcc/avr/4.3.2/avr51\libgcc.a(_usi_to_sf.o)
+                                                  c:/winavr-20090313/bin/../lib/gcc/avr/4.3.2/avr51\libgcc.a(_si_to_sf.o)
+                                                  c:/winavr-20090313/bin/../lib/gcc/avr/4.3.2/avr51\libgcc.a(_div_sf.o)
+                                                  c:/winavr-20090313/bin/../lib/gcc/avr/4.3.2/avr51\libgcc.a(_mul_sf.o)
+                                                  c:/winavr-20090313/bin/../lib/gcc/avr/4.3.2/avr51\libgcc.a(_addsub_sf.o)
+__prologue_saves__                                c:/winavr-20090313/bin/../lib/gcc/avr/4.3.2/avr51\libgcc.a(_prologue.o)
+                                                  c:/winavr-20090313/bin/../lib/gcc/avr/4.3.2/avr51\libgcc.a(_usi_to_sf.o)
+                                                  c:/winavr-20090313/bin/../lib/gcc/avr/4.3.2/avr51\libgcc.a(_sf_to_si.o)
+                                                  c:/winavr-20090313/bin/../lib/gcc/avr/4.3.2/avr51\libgcc.a(_si_to_sf.o)
+                                                  c:/winavr-20090313/bin/../lib/gcc/avr/4.3.2/avr51\libgcc.a(_lt_sf.o)
+                                                  c:/winavr-20090313/bin/../lib/gcc/avr/4.3.2/avr51\libgcc.a(_ge_sf.o)
+                                                  c:/winavr-20090313/bin/../lib/gcc/avr/4.3.2/avr51\libgcc.a(_div_sf.o)
+                                                  c:/winavr-20090313/bin/../lib/gcc/avr/4.3.2/avr51\libgcc.a(_mul_sf.o)
+                                                  c:/winavr-20090313/bin/../lib/gcc/avr/4.3.2/avr51\libgcc.a(_addsub_sf.o)
+__stack                                           c:/winavr-20090313/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr51/crtm1280.o
+__subsf3                                          c:/winavr-20090313/bin/../lib/gcc/avr/4.3.2/avr51\libgcc.a(_addsub_sf.o)
+                                                  c:/winavr-20090313/bin/../lib/gcc/avr/4.3.2/avr51\libgcc.a(_fixunssfsi.o)
+                                                  C:\Users\derekja\workspace\SENG466Project1\libmegaCore.a(Print.o)
+__tablejump2__                                    c:/winavr-20090313/bin/../lib/gcc/avr/4.3.2/avr51\libgcc.a(_tablejump.o)
+__tablejump__                                     c:/winavr-20090313/bin/../lib/gcc/avr/4.3.2/avr51\libgcc.a(_tablejump.o)
+                                                  c:/winavr-20090313/bin/../lib/gcc/avr/4.3.2/avr51\libgcc.a(_ctors.o)
+__thenan_sf                                       c:/winavr-20090313/bin/../lib/gcc/avr/4.3.2/avr51\libgcc.a(_thenan_sf.o)
+                                                  c:/winavr-20090313/bin/../lib/gcc/avr/4.3.2/avr51\libgcc.a(_div_sf.o)
+                                                  c:/winavr-20090313/bin/../lib/gcc/avr/4.3.2/avr51\libgcc.a(_mul_sf.o)
+                                                  c:/winavr-20090313/bin/../lib/gcc/avr/4.3.2/avr51\libgcc.a(_addsub_sf.o)
+__udivmodhi4                                      c:/winavr-20090313/bin/../lib/gcc/avr/4.3.2/avr51\libgcc.a(_udivmodhi4.o)
+                                                  c:/winavr-20090313/bin/../lib/gcc/avr/4.3.2/avr51\libgcc.a(_divmodhi4.o)
+__udivmodsi4                                      c:/winavr-20090313/bin/../lib/gcc/avr/4.3.2/avr51\libgcc.a(_udivmodsi4.o)
+                                                  c:/winavr-20090313/bin/../lib/gcc/avr/4.3.2/avr51\libgcc.a(_divmodsi4.o)
+                                                  C:\Users\derekja\workspace\SENG466Project1\libmegaCore.a(Print.o)
+                                                  C:\Users\derekja\workspace\SENG466Project1\libmegaCore.a(HardwareSerial.o)
+__unpack_f                                        c:/winavr-20090313/bin/../lib/gcc/avr/4.3.2/avr51\libgcc.a(_unpack_sf.o)
+                                                  c:/winavr-20090313/bin/../lib/gcc/avr/4.3.2/avr51\libgcc.a(_sf_to_si.o)
+                                                  c:/winavr-20090313/bin/../lib/gcc/avr/4.3.2/avr51\libgcc.a(_lt_sf.o)
+                                                  c:/winavr-20090313/bin/../lib/gcc/avr/4.3.2/avr51\libgcc.a(_ge_sf.o)
+                                                  c:/winavr-20090313/bin/../lib/gcc/avr/4.3.2/avr51\libgcc.a(_div_sf.o)
+                                                  c:/winavr-20090313/bin/../lib/gcc/avr/4.3.2/avr51\libgcc.a(_mul_sf.o)
+                                                  c:/winavr-20090313/bin/../lib/gcc/avr/4.3.2/avr51\libgcc.a(_addsub_sf.o)
+__vector_1                                        C:\Users\derekja\workspace\SENG466Project1\libmegaCore.a(WInterrupts.o)
+                                                  c:/winavr-20090313/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr51/crtm1280.o
+__vector_10                                       c:/winavr-20090313/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr51/crtm1280.o
+__vector_11                                       c:/winavr-20090313/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr51/crtm1280.o
+__vector_12                                       c:/winavr-20090313/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr51/crtm1280.o
+__vector_13                                       c:/winavr-20090313/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr51/crtm1280.o
+__vector_14                                       c:/winavr-20090313/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr51/crtm1280.o
+__vector_15                                       c:/winavr-20090313/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr51/crtm1280.o
+__vector_16                                       c:/winavr-20090313/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr51/crtm1280.o
+__vector_17                                       c:/winavr-20090313/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr51/crtm1280.o
+__vector_18                                       c:/winavr-20090313/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr51/crtm1280.o
+__vector_19                                       c:/winavr-20090313/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr51/crtm1280.o
+__vector_2                                        C:\Users\derekja\workspace\SENG466Project1\libmegaCore.a(WInterrupts.o)
+                                                  c:/winavr-20090313/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr51/crtm1280.o
+__vector_20                                       c:/winavr-20090313/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr51/crtm1280.o
+__vector_21                                       c:/winavr-20090313/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr51/crtm1280.o
+__vector_22                                       c:/winavr-20090313/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr51/crtm1280.o
+__vector_23                                       C:\Users\derekja\workspace\SENG466Project1\libmegaCore.a(wiring.o)
+                                                  c:/winavr-20090313/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr51/crtm1280.o
+__vector_24                                       c:/winavr-20090313/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr51/crtm1280.o
+__vector_25                                       C:\Users\derekja\workspace\SENG466Project1\libmegaCore.a(HardwareSerial.o)
+                                                  c:/winavr-20090313/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr51/crtm1280.o
+__vector_26                                       c:/winavr-20090313/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr51/crtm1280.o
+__vector_27                                       c:/winavr-20090313/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr51/crtm1280.o
+__vector_28                                       c:/winavr-20090313/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr51/crtm1280.o
+__vector_29                                       c:/winavr-20090313/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr51/crtm1280.o
+__vector_3                                        C:\Users\derekja\workspace\SENG466Project1\libmegaCore.a(WInterrupts.o)
+                                                  c:/winavr-20090313/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr51/crtm1280.o
+__vector_30                                       c:/winavr-20090313/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr51/crtm1280.o
+__vector_31                                       c:/winavr-20090313/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr51/crtm1280.o
+__vector_32                                       c:/winavr-20090313/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr51/crtm1280.o
+__vector_33                                       c:/winavr-20090313/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr51/crtm1280.o
+__vector_34                                       c:/winavr-20090313/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr51/crtm1280.o
+__vector_35                                       c:/winavr-20090313/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr51/crtm1280.o
+__vector_36                                       C:\Users\derekja\workspace\SENG466Project1\libmegaCore.a(HardwareSerial.o)
+                                                  c:/winavr-20090313/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr51/crtm1280.o
+__vector_37                                       c:/winavr-20090313/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr51/crtm1280.o
+__vector_38                                       c:/winavr-20090313/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr51/crtm1280.o
+__vector_39                                       c:/winavr-20090313/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr51/crtm1280.o
+__vector_4                                        C:\Users\derekja\workspace\SENG466Project1\libmegaCore.a(WInterrupts.o)
+                                                  c:/winavr-20090313/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr51/crtm1280.o
+__vector_40                                       c:/winavr-20090313/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr51/crtm1280.o
+__vector_41                                       c:/winavr-20090313/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr51/crtm1280.o
+__vector_42                                       c:/winavr-20090313/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr51/crtm1280.o
+__vector_43                                       c:/winavr-20090313/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr51/crtm1280.o
+__vector_44                                       c:/winavr-20090313/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr51/crtm1280.o
+__vector_45                                       c:/winavr-20090313/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr51/crtm1280.o
+__vector_46                                       c:/winavr-20090313/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr51/crtm1280.o
+__vector_47                                       c:/winavr-20090313/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr51/crtm1280.o
+__vector_48                                       c:/winavr-20090313/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr51/crtm1280.o
+__vector_49                                       c:/winavr-20090313/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr51/crtm1280.o
+__vector_5                                        C:\Users\derekja\workspace\SENG466Project1\libmegaCore.a(WInterrupts.o)
+                                                  c:/winavr-20090313/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr51/crtm1280.o
+__vector_50                                       c:/winavr-20090313/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr51/crtm1280.o
+__vector_51                                       C:\Users\derekja\workspace\SENG466Project1\libmegaCore.a(HardwareSerial.o)
+                                                  c:/winavr-20090313/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr51/crtm1280.o
+__vector_52                                       c:/winavr-20090313/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr51/crtm1280.o
+__vector_53                                       c:/winavr-20090313/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr51/crtm1280.o
+__vector_54                                       C:\Users\derekja\workspace\SENG466Project1\libmegaCore.a(HardwareSerial.o)
+                                                  c:/winavr-20090313/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr51/crtm1280.o
+__vector_55                                       c:/winavr-20090313/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr51/crtm1280.o
+__vector_56                                       c:/winavr-20090313/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr51/crtm1280.o
+__vector_6                                        C:\Users\derekja\workspace\SENG466Project1\libmegaCore.a(WInterrupts.o)
+                                                  c:/winavr-20090313/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr51/crtm1280.o
+__vector_7                                        C:\Users\derekja\workspace\SENG466Project1\libmegaCore.a(WInterrupts.o)
+                                                  c:/winavr-20090313/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr51/crtm1280.o
+__vector_8                                        C:\Users\derekja\workspace\SENG466Project1\libmegaCore.a(WInterrupts.o)
+                                                  c:/winavr-20090313/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr51/crtm1280.o
+__vector_9                                        c:/winavr-20090313/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr51/crtm1280.o
+__vector_default                                  c:/winavr-20090313/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr51/crtm1280.o
+__vectors                                         c:/winavr-20090313/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr51/crtm1280.o
+_baudRate                                         ./vrbot.o
+_bitPeriod                                        ./vrbot.o
+_div                                              c:/winavr-20090313/bin/../lib/gcc/avr/4.3.2/avr51\libgcc.a(_divmodhi4.o)
+_exit                                             c:/winavr-20090313/bin/../lib/gcc/avr/4.3.2/avr51\libgcc.a(_exit.o)
+_receivePin                                       ./vrbot.o
+_transmitPin                                      ./vrbot.o
+attachInterrupt                                   C:\Users\derekja\workspace\SENG466Project1\libmegaCore.a(WInterrupts.o)
+                                                  ./radio/radio.o
+delay                                             C:\Users\derekja\workspace\SENG466Project1\libmegaCore.a(wiring.o)
+                                                  ./radio/radio.o
+                                                  ./vrbot.o
+                                                  ./main.o
+delayMicroseconds                                 C:\Users\derekja\workspace\SENG466Project1\libmegaCore.a(wiring.o)
+                                                  ./radio/radio.o
+                                                  ./vrbot.o
+                                                  ./LiquidCrystal.o
+detachInterrupt                                   C:\Users\derekja\workspace\SENG466Project1\libmegaCore.a(WInterrupts.o)
+digitalRead                                       C:\Users\derekja\workspace\SENG466Project1\libmegaCore.a(wiring_digital.o)
+                                                  ./vrbot.o
+                                                  ./main.o
+digitalWrite                                      C:\Users\derekja\workspace\SENG466Project1\libmegaCore.a(wiring_digital.o)
+                                                  C:\Users\derekja\workspace\SENG466Project1\libmegaCore.a(wiring.o)
+                                                  ./radio/spi.o
+                                                  ./radio/radio.o
+                                                  ./vrbot.o
+                                                  ./main.o
+                                                  ./LiquidCrystal.o
+digital_pin_to_bit_mask_PGM                       C:\Users\derekja\workspace\SENG466Project1\libmegaCore.a(pins_arduino.o)
+                                                  C:\Users\derekja\workspace\SENG466Project1\libmegaCore.a(wiring_digital.o)
+digital_pin_to_port_PGM                           C:\Users\derekja\workspace\SENG466Project1\libmegaCore.a(pins_arduino.o)
+                                                  C:\Users\derekja\workspace\SENG466Project1\libmegaCore.a(wiring_digital.o)
+digital_pin_to_timer_PGM                          C:\Users\derekja\workspace\SENG466Project1\libmegaCore.a(pins_arduino.o)
+                                                  C:\Users\derekja\workspace\SENG466Project1\libmegaCore.a(wiring_digital.o)
+exit                                              c:/winavr-20090313/bin/../lib/gcc/avr/4.3.2/avr51\libgcc.a(_exit.o)
+                                                  c:/winavr-20090313/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr51/crtm1280.o
+init                                              C:\Users\derekja\workspace\SENG466Project1\libmegaCore.a(wiring.o)
+                                                  ./main.o
+int0handler()                                     ./radio/radio.o
+lcd                                               ./main.o
+                                                  ./vrbot.o
+loop                                              ./main.o
+main                                              ./main.o
+                                                  c:/winavr-20090313/bin/../lib/gcc/avr/4.3.2/../../../../avr/lib/avr51/crtm1280.o
+message                                           ./vrbot.o
+micros                                            C:\Users\derekja\workspace\SENG466Project1\libmegaCore.a(wiring.o)
+millis                                            C:\Users\derekja\workspace\SENG466Project1\libmegaCore.a(wiring.o)
+pinMode                                           C:\Users\derekja\workspace\SENG466Project1\libmegaCore.a(wiring_digital.o)
+                                                  ./radio/spi.o
+                                                  ./radio/radio.o
+                                                  ./vrbot.o
+                                                  ./main.o
+                                                  ./LiquidCrystal.o
+port_to_input_PGM                                 C:\Users\derekja\workspace\SENG466Project1\libmegaCore.a(pins_arduino.o)
+                                                  C:\Users\derekja\workspace\SENG466Project1\libmegaCore.a(wiring_digital.o)
+port_to_mode_PGM                                  C:\Users\derekja\workspace\SENG466Project1\libmegaCore.a(pins_arduino.o)
+                                                  C:\Users\derekja\workspace\SENG466Project1\libmegaCore.a(wiring_digital.o)
+port_to_output_PGM                                C:\Users\derekja\workspace\SENG466Project1\libmegaCore.a(pins_arduino.o)
+                                                  C:\Users\derekja\workspace\SENG466Project1\libmegaCore.a(wiring_digital.o)
+radioInitSetup()                                  ./radioclient.o
+                                                  ./main.o
+radioSend(unsigned char)                          ./radioclient.o
+                                                  ./vrbot.o
+                                                  ./main.o
+radio_rxhandler(unsigned char)                    ./radioclient.o
+                                                  ./radio/radio.o
+rx_buffer                                         C:\Users\derekja\workspace\SENG466Project1\libmegaCore.a(HardwareSerial.o)
+rx_buffer1                                        C:\Users\derekja\workspace\SENG466Project1\libmegaCore.a(HardwareSerial.o)
+rx_buffer2                                        C:\Users\derekja\workspace\SENG466Project1\libmegaCore.a(HardwareSerial.o)
+rx_buffer3                                        C:\Users\derekja\workspace\SENG466Project1\libmegaCore.a(HardwareSerial.o)
+setup                                             ./main.o
+store_char(unsigned char, ring_buffer*)           C:\Users\derekja\workspace\SENG466Project1\libmegaCore.a(HardwareSerial.o)
+timer0_millis                                     C:\Users\derekja\workspace\SENG466Project1\libmegaCore.a(wiring.o)
+timer0_overflow_count                             C:\Users\derekja\workspace\SENG466Project1\libmegaCore.a(wiring.o)
+vrbot_setup()                                     ./vrbot.o
+                                                  ./main.o
+vtable for HardwareSerial                         C:\Users\derekja\workspace\SENG466Project1\libmegaCore.a(HardwareSerial.o)
+vtable for LiquidCrystal                          ./LiquidCrystal.o
+vtable for Print                                  C:\Users\derekja\workspace\SENG466Project1\libmegaCore.a(Print.o)
+                                                  ./LiquidCrystal.o
