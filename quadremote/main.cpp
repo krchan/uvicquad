@@ -6,6 +6,7 @@
 #include "sonar.h"
 #include "radioclient.h"
 #include "Actuate.h"
+#include "servo.h"
 
 /*
  * 0 is reserved for IDLE task, so the enumeration
@@ -47,7 +48,7 @@ void task2(void) {
 	for (;;) {
 		digitalWrite(ONBOARD_LED, LOW);
 		Serial.println("off");
-		analogWrite(9, 50);
+		servoSet(900);
 
 		Task_Next();
 	}
@@ -99,6 +100,7 @@ void controlTask(void) {
 
 int r_main(void) {
 	init();
+	servoInit();
 
 	pinMode(ONBOARD_LED, OUTPUT);
 //	pinMode(4, OUTPUT);
