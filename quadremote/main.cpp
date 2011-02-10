@@ -19,8 +19,9 @@ enum {
 	SONAR_TASK,
 };
 
-const unsigned char PPP[10] = { ONBOARD_LED_HIGH, 1, ONBOARD_LED_LOW, 1, ACTUATE_TASK, 5, CONTROL_TASK, 5, SONAR_TASK, 35};
-//const unsigned char PPP[18] = { ONBOARD_LED_HIGH, 1, ONBOARD_LED_LOW, 1, CONTROL_TASK, 5, ACTUATE_TASK, 5, CONTROL_TASK, 5, SONAR_TASK, 35, SONAR_TASK, 35, SONAR_TASK, 35, SONAR_TASK, 35};
+const unsigned char PPP[4] = { ONBOARD_LED_HIGH, 20, ONBOARD_LED_LOW, 200};
+//const unsigned char PPP[10] = { ONBOARD_LED_HIGH, 1, ONBOARD_LED_LOW, 1, ACTUATE_TASK, 5, CONTROL_TASK, 5, SONAR_TASK, 35};
+//way old - const unsigned char PPP[18] = { ONBOARD_LED_HIGH, 1, ONBOARD_LED_LOW, 1, CONTROL_TASK, 5, ACTUATE_TASK, 5, CONTROL_TASK, 5, SONAR_TASK, 35, SONAR_TASK, 35, SONAR_TASK, 35, SONAR_TASK, 35};
 
 const unsigned int PT = sizeof(PPP) / 2;
 
@@ -35,6 +36,8 @@ static int actuateDivider = 0;
 void task1(void) {
 	for (;;) {
 		digitalWrite(ONBOARD_LED, HIGH);
+		Serial.println("on");
+		analogWrite(9, 100);
 
 		Task_Next();
 	}
@@ -43,6 +46,8 @@ void task1(void) {
 void task2(void) {
 	for (;;) {
 		digitalWrite(ONBOARD_LED, LOW);
+		Serial.println("off");
+		analogWrite(9, 50);
 
 		Task_Next();
 	}
@@ -96,11 +101,11 @@ int r_main(void) {
 	init();
 
 	pinMode(ONBOARD_LED, OUTPUT);
-	pinMode(4, OUTPUT);
-	pinMode(12, OUTPUT);
-	pinMode(13, OUTPUT);
+//	pinMode(4, OUTPUT);
+	pinMode(9, OUTPUT);
+	//pinMode(13, OUTPUT);
 	Serial.begin(57600);
-	sonarInit();
+	//sonarInit();
 
 //	digitalWrite( LEFT_MOTOR_PIN_1, 0 );
 //	digitalWrite( LEFT_MOTOR_PIN_2, 1 );
@@ -124,13 +129,13 @@ int r_main(void) {
 //analogWrite(9, 0);
 //digitalWrite(9, LOW);
 //}
-	radioInitSetup();
+//	radioInitSetup();
 
 	Task_Create(task1, ONBOARD_LED_HIGH, PERIODIC, ONBOARD_LED_HIGH);
 	Task_Create(task2, ONBOARD_LED_LOW, PERIODIC, ONBOARD_LED_LOW);
-	Task_Create(sonarTask, SONAR_TASK, PERIODIC, SONAR_TASK);
-	Task_Create(actuateTask, ACTUATE_TASK, PERIODIC, ACTUATE_TASK);
-	Task_Create(controlTask, CONTROL_TASK, PERIODIC, CONTROL_TASK);
+//	Task_Create(sonarTask, SONAR_TASK, PERIODIC, SONAR_TASK);
+//	Task_Create(actuateTask, ACTUATE_TASK, PERIODIC, ACTUATE_TASK);
+//	Task_Create(controlTask, CONTROL_TASK, PERIODIC, CONTROL_TASK);
 
 	return 0;
 }
